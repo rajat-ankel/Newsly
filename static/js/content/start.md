@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/start.35433859.md";

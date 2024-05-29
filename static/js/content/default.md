@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/default.126e16cc.md";

@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/examples.7500b205.md";

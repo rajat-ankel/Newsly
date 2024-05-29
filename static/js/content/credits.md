@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/credits.b2b54a8d.md";

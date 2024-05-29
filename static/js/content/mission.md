@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/mission.2976d4a8.md";

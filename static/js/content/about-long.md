@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/about-long.af06b79a.md";

@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/exclusions.f62403a7.md";

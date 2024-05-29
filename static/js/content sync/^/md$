@@ -1,0 +1,45 @@
+var map = {
+	"./404.md": 588,
+	"./about-long.md": 1273,
+	"./about.md": 1274,
+	"./answers.md": 1275,
+	"./benefits.md": 1276,
+	"./bot.md": 1277,
+	"./business.md": 1278,
+	"./commands.md": 1279,
+	"./contact.md": 1280,
+	"./credits.md": 1281,
+	"./datasources.md": 1282,
+	"./default.md": 1283,
+	"./examples.md": 1284,
+	"./exclusions.md": 1285,
+	"./help.md": 1286,
+	"./mission.md": 1287,
+	"./privacy.md": 1288,
+	"./problems.md": 1289,
+	"./releases.md": 1290,
+	"./start.md": 1291,
+	"./summaries.md": 1292,
+	"./team.md": 1293,
+	"./tips.md": 1294
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 1272;

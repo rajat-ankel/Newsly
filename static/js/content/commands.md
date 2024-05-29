@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/commands.941e98b4.md";

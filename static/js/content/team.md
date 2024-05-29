@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "static/media/team.ef3211da.md";
