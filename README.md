@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/3deff6d2-9687-4e86-a7a4-0cf43d271f2a
 
 Welcome to **Newsly**, a React-based project for keeping up with the latest news.
 
-![Newsly](./path/to/your/logo.png)
+![Newsly](assets/welcome/icon.ico)
 
 ## Table of Contents
 
